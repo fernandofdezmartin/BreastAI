@@ -18,7 +18,7 @@ Es necesario tener instalados los siguientes programas:
 
 ## Instalación
 
-Para instalar la API en Python y la base de datos en MySQL, sigue los siguientes pasos:
+Para instalar la apliación, sigue los siguientes pasos:
 
 1. Clona el repositorio en tu ordenador utilizando el comando:
 
