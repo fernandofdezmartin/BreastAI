@@ -9,4 +9,28 @@ BreastAI is an application for diagnosing breast cancer using artificial intelli
 - Detailed and clear results.
 
 
+## Requisitos
+
+Es necesario tener instalados los siguientes programas:
+
+- Python 3.11 o superior.
+- MySQL 
+
+## Instalación
+
+Para instalar la API en Python y la base de datos en MySQL, sigue los siguientes pasos:
+
+1. Clona el repositorio en tu ordenador utilizando el comando:
+
+<pre><code>git clone git clone https://github.com/your-username/breastai.git</code></pre>
+
+2. Abre una terminal en la carpeta del proyecto y ejecuta el comando:
+
+
+<pre><code>pip install -r requirements.txt</code></pre>
+
+Este comando instalará todas las dependencias necesarias para la API en Python.
+
+
+
 
